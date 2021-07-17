@@ -26,6 +26,7 @@ class CommonLoader: NSObject {
             activityIndicator.startAnimating()
             activityIndicator.center = spinnerView!.center
             DispatchQueue.main.async {
+                guard spinnerView != nil else { return }
                 window.addSubview(spinnerView!)
                 window.constrainToEdges(spinnerView!)
                 spinnerView?.addSubview(activityContainerView)
