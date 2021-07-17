@@ -1,0 +1,176 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/d13457aa-13a8-56dd-b9b3-5716164a94ea",
+      "url": "https://www.nytimes.com/2021/07/04/sports/basketball/espn-rachel-nichols-maria-taylor.html",
+      "id": 100000007779268,
+      "asset_id": 100000007779268,
+      "source": "New York Times",
+      "published_date": "2021-07-04",
+      "updated": "2021-07-06 13:15:32",
+      "section": "Sports",
+      "subsection": "N.B.A.",
+      "nytdsection": "sports",
+      "adx_keywords": "Television;Black People;Athletics and Sports;Workplace Hazards and Violations;Video Recordings, Downloads and Streaming;Hiring and Promotion;Race and Ethnicity;Women and Girls;Basketball;internal-storyline-no;Discrimination;News and News Media;Nichols, Rachel;Taylor, Maria (1987- );Pitaro, James A;Wojnarowski, Adrian;Rose, Jalen;Mendelsohn, Adam;ESPN",
+      "column": null,
+      "byline": "By Kevin Draper",
+      "type": "Article",
+      "title": "A Disparaging Video Prompts Explosive Fallout Within ESPN",
+      "abstract": "In comments still rippling through the network, the reporter Rachel Nichols, who is white, said Maria Taylor, who is Black, earned the job to host 2020 N.B.A. finals coverage because ESPN was “feeling pressure” on diversity.",
+      "des_facet": [
+        "Television",
+        "Black People",
+        "Athletics and Sports",
+        "Workplace Hazards and Violations",
+        "Video Recordings, Downloads and Streaming",
+        "Hiring and Promotion",
+        "Race and Ethnicity",
+        "Women and Girls",
+        "Basketball",
+        "internal-storyline-no",
+        "Discrimination",
+        "News and News Media"
+      ],
+      "org_facet": [
+        "ESPN"
+      ],
+      "per_facet": [
+        "Nichols, Rachel",
+        "Taylor, Maria (1987- )",
+        "Pitaro, James A",
+        "Wojnarowski, Adrian",
+        "Rose, Jalen",
+        "Mendelsohn, Adam"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maria Taylor, at left front, considered refusing to appear on ESPN’s “NBA Countdown” along with her costars, from left, Jalen Rose, Adrian Wojnarowski and Jay Williams. Rachel Nichols, right, was heard on a video making disparaging comments about Taylor. Jimmy Pitaro, center, ESPN’s president, has tried to smooth over the relationships.",
+          "copyright": "Eleanor Shakespeare",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/sports/espn-illustration/espn-illustration-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/sports/espn-illustration/espn-illustration-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/07/01/sports/espn-illustration/espn-illustration-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b7e23ef9-9053-5eb9-9d1d-5d0d2e5f5024",
+      "url": "https://www.nytimes.com/2021/06/27/us/miami-building-investigation-clues.html",
+      "id": 100000007836895,
+      "asset_id": 100000007836895,
+      "source": "New York Times",
+      "published_date": "2021-06-27",
+      "updated": "2021-07-13 18:21:58",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Surfside, Fla, Building Collapse (2021);Buildings (Structures);Engineering and Engineers;Building (Construction);Concrete;National Institute of Standards and Technology;Florida;Surfside (Fla)",
+      "column": null,
+      "byline": "By James Glanz, Anjali Singhvi and Mike Baker",
+      "type": "Article",
+      "title": "Possible Failure Point Emerges in Miami-Area Building Collapse",
+      "abstract": "Some engineers looking at the failure of a 13-story condo tower in Florida said the collapse appeared to have begun somewhere near the bottom of the building.",
+      "des_facet": [
+        "Surfside, Fla, Building Collapse (2021)",
+        "Buildings (Structures)",
+        "Engineering and Engineers",
+        "Building (Construction)",
+        "Concrete"
+      ],
+      "org_facet": [
+        "National Institute of Standards and Technology"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Florida",
+        "Surfside (Fla)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8df3f467-5dc5-500d-b6d9-b6ce1541cab1",
+      "url": "https://www.nytimes.com/2021/06/22/arts/music/britney-spears-conservatorship.html",
+      "id": 100000007824721,
+      "asset_id": 100000007824721,
+      "source": "New York Times",
+      "published_date": "2021-06-22",
+      "updated": "2021-07-15 07:38:27",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Suits and Litigation (Civil);Mental Health and Disorders;Pop and Rock Music;Wills and Estates;Spears, Britney;Spears, Jamie (1952- )",
+      "column": null,
+      "byline": "By Liz Day, Samantha Stark and Joe Coscarelli",
+      "type": "Article",
+      "title": "Britney Spears Quietly Pushed for Years to End Her Conservatorship",
+      "abstract": "Confidential court records obtained by The Times reveal that the singer has urged changes to the arrangement that controls her life, and her father’s role in leading it.",
+      "des_facet": [
+        "Suits and Litigation (Civil)",
+        "Mental Health and Disorders",
+        "Pop and Rock Music",
+        "Wills and Estates"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Spears, Britney",
+        "Spears, Jamie (1952- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The relationship between Britney Spears, right, and her father, Jamie, is expected to be a central topic at a hearing in Los Angeles on Wednesday regarding the singer’s conservatorship.",
+          "copyright": "X17",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/22/arts/22britney1/22britney1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/22/arts/22britney1/22britney1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/22/arts/22britney1/22britney1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
